@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muniba-Ahmed
-- 👀 I’m interested in AI/Robotics. 
+- 👀 I’m interested in AI/Robotics and React based projects.
 - 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on non-profit projects.
 - 📫 Reach me at https://www.linkedin.com/in/muniba-ahmed-a18031228/
